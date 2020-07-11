@@ -1,0 +1,18 @@
+<suite name="Module 1: Payment Module">
+<test name="Validate User">
+<classes>
+<class name="unicodeTech.Module1.ValidateUser"></class>
+</classes>
+
+</test>
+
+<test name="Extract Categories">
+<classes>
+<class name="unicodeTech.Module1.ExtractCategories"></class>
+</classes>
+
+</test>
+
+
+
+</suite>

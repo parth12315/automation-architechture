@@ -1,0 +1,18 @@
+<suite name="Module 1: Report Module">
+<test name="Search Product">
+<classes>
+<class name="unicodeTech.Module2.SearchProduct"></class>
+</classes>
+
+</test>
+
+<test name="Select Manufacturer">
+<classes>
+<class name="unicodeTech.Module2.SelectManufacturer"></class>
+</classes>
+
+</test>
+
+
+
+</suite>
