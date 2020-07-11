@@ -76,11 +76,11 @@ public class BaseInit {
 		logs.info("Timeunit is defined");
 
 		driver.manage().deleteAllCookies();
-		logs.info("Cookies has been deleted");
+		logs.info("Cookies has been deleting");
 
 		data = new ExcelFileReader(System.getProperty("user.dir")+"//src//unicodeTech//TestData//TestCases.xlsx");
 		logs.info("ExcelFileReader object created..");
-
+		
 		}
 	}
 	
